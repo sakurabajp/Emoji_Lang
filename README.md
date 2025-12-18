@@ -18,4 +18,4 @@
   `ftype EmojiLangFile=java -jar "C:\tools\EmojiLang.jar" "%1"`,  
 を実行  
 (Java25以外を利用、また適切なjavaファイルのpathを通さないとエラーが出ます！！)
-4. [こちら](https://www.suzusakirin.jp/sample.emj)からサンプルコードを実行してみよう！
+4. [こちら](https://www.suzusakirin.jp/emoji-lang/sample.emj)からサンプルコードを実行してみよう！
